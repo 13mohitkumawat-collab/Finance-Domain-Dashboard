@@ -5,4 +5,4 @@ Cleaned and transformed financial data using Power Query to prepare it for analy
 
 Designed interactive Power BI dashboards with KPIs, charts, and filters for financial performance tracking.
 
-Enabled data-driven decision-making by visualizing revenue, expenses, profit trends, and other business insights.
+Enabled data-driven decision-making by visualizing amount received,amount funded, profit trends, and other business insights.
